@@ -1,4 +1,4 @@
-package com.bootjava.restvote;
+package ru.javaops.bootjava;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
